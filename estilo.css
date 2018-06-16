@@ -1,0 +1,46 @@
+.container{
+	margin: 3%;
+
+}
+
+@font-face
+{
+	font-family: "mrrobot";
+	src: url("./fonts/MRROBOT.ttf");	
+	
+}
+@font-face
+{
+font-family: "Gochi";
+	src: url("./fonts/GochiHand-Regular.ttf")
+}
+@font-face
+{
+font-family: "Righteous-Regular";
+	src: url("./fonts/Righteous-Regular.ttf")
+}
+.titulo
+{
+	font-family: 'mrrobot';
+	font-size: 28px;
+	text-align: center;
+}
+.numero
+{
+	font-family: 'Gochi'; 
+	font-size: 18px;
+}
+.colortable
+{
+	background: linear-gradient( rgba(255,0,0,0), #80cbc4);
+	font-family: 'Righteous-Regular';
+
+}
+p.formula
+{
+	font-family: 'Courier New';
+	font-size: 25px;
+	text-align: center;
+	color: #004d40;
+	font-weight: bold;
+}
